@@ -2,5 +2,5 @@
 def add(a,b):
 	print (a+b)
 
-def minus(a,b):
+def sub(a,b):
 	print (a-b)
